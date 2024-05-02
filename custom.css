@@ -1,0 +1,33 @@
+header {
+	background-image: url(skincaredesk.jpg);
+	background-size: cover;
+}
+
+body {
+	background-color: #F8C7C6;
+}
+
+p {
+	background-color: #F8C7C6;
+}
+
+img {
+	width: 300px
+}
+
+h1 {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 60px;
+}
+
+#face, #face1, #face2, #face3, #face4 {
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#cerave, #cerave1,#cerave2, #cerave3, #cerave4 {
+	padding-left: 30px;
+}
